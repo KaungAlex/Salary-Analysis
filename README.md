@@ -8,5 +8,6 @@ The solution ingests raw salary data into AWS S3, orchestrates data movement and
 
 This project showcases modern Data Engineering, ETL/ELT development, cloud storage, big data processing, and Business Intelligence reporting.
 ## 🏗️ Data Platform Architecture
+![Data Architecture](Spark/DataDesign.png)
 
 
