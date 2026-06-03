@@ -212,10 +212,3 @@ Uses Power BI AI visuals to identify factors that most influence salary outcomes
 
 ---
 
-## Author
-
-**Alex Kaung**
-
-Data Engineer | BI Developer | Data Analyst
-
-GitHub: https://github.com/KaungAlex
